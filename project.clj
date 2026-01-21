@@ -106,3 +106,4 @@
     :password :env/clojars_token_datascript
     :sign-releases false}}
 )
+
